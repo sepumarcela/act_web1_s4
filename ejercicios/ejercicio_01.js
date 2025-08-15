@@ -2,4 +2,4 @@ function cuadradoDeUnNumero(numero){
     return numero*numero
 }
 
-cuadradoDeUnNumero(3)
+cuadradoDeUnNumero(3);
