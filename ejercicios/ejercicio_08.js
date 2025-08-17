@@ -2,3 +2,9 @@
 // - **Tarea**: Crea una función que imprima un mensaje después de 3 segundos usando `setTimeout`.
 // - **Tipo de función**: Función anónima
 // - **Ejemplo**: Imprime "¡Tiempo terminado!" tras 3 segundos.
+
+function mostrarMensaje() {
+  console.log("¡Tiempo terminado!")
+}
+
+setTimeout(mostrarMensaje, 3000)
